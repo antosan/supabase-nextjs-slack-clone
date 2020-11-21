@@ -10,7 +10,7 @@ This is a full-stack Slack clone example using:
 
 ## Demo
 
-- Live demo: http://supabase-slack-clone.supabase.vercel.app/
+- Live demo: https://supabase-nextjs-slack-clone.vercel.app/
 - CodeSandbox: https://codesandbox.io/s/github/supabase/supabase/tree/master/examples/slack-clone
 - Video tutorial: https://www.loom.com/share/31eec9b656e44b8d87c88bde8a465676
 
